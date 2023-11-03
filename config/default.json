@@ -1,0 +1,16 @@
+{
+    "PORT" : "3000",
+    "DB_URI" : "mongodb+srv://musaib:musaib@cluster.lesnedu.mongodb.net/Book-store-practice",
+    "JWTKEY" : "CODE",
+    "CRYPTO" : "Musaib",
+
+      "URL":"http://localhost:3000",
+    "SEND_SMS": {
+        "SID": "ACedd93741e8ad22217fccda7080f9cccf",
+        "TOKEN": "c3855333421b0086cefab5f3bfe44f08",
+        "NUMBER": "+19843052274"
+    }
+
+}
+
+
